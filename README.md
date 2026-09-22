@@ -26,7 +26,7 @@ The generation model used in the formal experiment was **gpt-5.6-terra**. Semant
 ```text
 /
 ├── README.md
-├── experiment_pipeline_github_ready.ipynb
+├── experiment_pipeline.ipynb
 └── data/
     └── Thesis_Experiment_Public.xlsx
 ```
